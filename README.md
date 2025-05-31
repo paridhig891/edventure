@@ -22,3 +22,34 @@ In the digital age, students face multiple barriers to effective learning:
 ## ✅ Solution Overview – What Edventure Offers
 
 Edventure transforms the learning process using AI, gamification, and intelligent planning tools:
+### 🔑 Features:
+
+#### 🏠 **Interactive Dashboard**
+- XP-based progress system
+- Daily & weekly goal tracking
+- Soft gradient UI with motivational design
+
+#### 🎥 **Lecture Player Screen**
+- Embedded video with playback controls
+- Animated explainer popups powered by AI
+- “Quick Quiz” button for instant comprehension checks
+
+#### ❓ **Quiz Interface**
+- Responsive MCQ layout
+- Quiz progress bar
+- Answer feedback + scoring
+
+#### 📅 **Study Path Generator**
+- Form to input subject & goal preferences
+- Smart learning milestones and time blocks
+- Real-world use-case cards with each topic
+
+#### 📚 **Syllabus Upload + AI Study Plan**
+- Upload your syllabus or paste it as text
+- AI (via Hugging Face) parses it and auto-generates a study plan
+- Includes suggested timelines and topic-wise XP allocation
+
+#### 🗺️ **Gamified Chapter Unlock Map**
+- Chapters unlocked based on XP earned
+- Visual chapter-tree navigation
+- Hidden rewards for completing quizzes with accuracy
